@@ -9,4 +9,5 @@ def my_each(array) # put argument(s) here
     end
   else
     puts "Hey, you didn't put a block in!"
+  end
 end
